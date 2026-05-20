@@ -1,0 +1,9 @@
+ssh -i "C:\Users\sheik\Downloads\ssh-key-2026-05-15.pem" ubuntu@193.123.92.184
+
+
+
+ssh -i "C:\Users\sheik\Downloads\ssh-key-2026-05-19.pem" ubuntu@84.235.251.128
+
+
+
+8534267489
